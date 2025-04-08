@@ -1,5 +1,5 @@
 Olá, Seja Bem-Vindo (a)!🖐️<br/>
-Sou Elias Chaves, um amante de programação e um eterno aprendiz. <br/><br/>
+Sou Elias Chaves Sousa, um amante de programação e um eterno aprendiz. <br/><br/>
 Tecnologias usadas no dia a dia:<br/>
 <div style="display: inline_block"> <br/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
