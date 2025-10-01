@@ -1,10 +1,29 @@
-Olá, Seja Bem-Vindo (a)!🖐️<br/>
-Sou Elias Chaves Sousa, um amante de programação e um eterno aprendiz. <br/><br/>
-Tecnologias usadas no dia a dia:<br/>
-<div style="display: inline_block"> <br/>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</div>
+# Olá 👋, eu sou o Elias Chaves
 
+Sou estudante de **Sistemas de Informação** (21 anos) e desenvolvedor Full-Stack com foco em backend (Python/Django) e front-end (React/TypeScript). Sou comunicativo, resiliente e proativo — adoro aprender e enfrentar desafios técnicos.
+
+## 🔭 O que faço
+- Desenvolvo APIs RESTful e backends com **Python + Django**.  
+- Crio interfaces com **React** e apps full-stack com **Node.js**.  
+- Projetos pessoais e freelance envolvendo modelagem de dados (MySQL, MongoDB) e integração com clientes.
+
+## 💼 Experiência destacada
+- **Subticket — Desenvolvedor Back-End**  
+  Desenvolvimento do backend de um sistema de venda de ingressos online com Python/Django e implementação de API RESTful.  
+  🏆 1º lugar na competição interna de projetos da Unibalsas.
+
+- **Projetos Freelance — Desenvolvedor Full-Stack**  
+  Desenvolvimento de aplicações web em JavaScript/TypeScript, React e Node.js; modelagem e otimização de bancos MySQL/MongoDB; criação de APIs e contato direto com clientes.
+
+## 🛠 Tech & Tools
+Python · Django · JavaScript · TypeScript · React · Node.js · RESTful APIs · MySQL · MongoDB · Git · Docker (básico)
+
+## 🏅 Participações
+- Maratona de Programação 2023 — experiência em resolução de problemas e trabalho em equipe sob pressão.
+
+## 📫 Contato
+- LinkedIn: _insira seu link aqui_  
+- Email: `seu.email@exemplo.com` (substitua pelo seu)
+
+---
+Se quiser, posso gerar versões em inglês, imagens e badges para o perfil, ou montar os READMEs dos seus repositórios com mais detalhes técnicos e instruções de execução.
