@@ -19,11 +19,8 @@ Sou estudante de **Sistemas de Informação** (21 anos) e desenvolvedor Full-Sta
 Python · Django · JavaScript · TypeScript · React · Node.js · RESTful APIs · MySQL · MongoDB · Git · Docker (básico)
 
 ## 🏅 Participações
-- Maratona de Programação 2023 — experiência em resolução de problemas e trabalho em equipe sob pressão.
+- Maratona de Programação 2023 a 2024 — experiência em resolução de problemas e trabalho em equipe sob pressão.
 
 ## 📫 Contato
-- LinkedIn: _insira seu link aqui_  
-- Email: `seu.email@exemplo.com` (substitua pelo seu)
-
----
-Se quiser, posso gerar versões em inglês, imagens e badges para o perfil, ou montar os READMEs dos seus repositórios com mais detalhes técnicos e instruções de execução.
+- LinkedIn: @
+- Email: ecs.chaves@gmail.com 
