@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Elias Chaves
+# Olá 👋, eu sou o Elias Chaves Sousa.
 
 Sou estudante de **Sistemas de Informação** (21 anos) e desenvolvedor Full-Stack com foco em backend (Python/Django) e front-end (React/TypeScript). Sou comunicativo, resiliente e proativo — adoro aprender e enfrentar desafios técnicos.
 
